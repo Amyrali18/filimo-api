@@ -1,19 +1,19 @@
-{
-    "main":[
-        {"id":1,
-        "url":"./images/img-1.webp"
+[
+    
+        {
+        "url":"https://static.cdn.asset.filimo.com/ct/tr17m_desktop_1_v1.jpeg"
   },
   {
-    "id":2,
-    "url":"./images/img-2.webp"
+   
+    "url":"https://static.cdn.asset.filimo.com/ct/hsvzb_desktop_1_v1.jpeg"
   },
   {
-    "id":3,
-    "url":"./images/img-2.webp"
+   
+    "url":"https://static.cdn.asset.filimo.com/ct/jlbg6_desktop_1_v1.jpeg"
   },
   {
-    "id":4,
-    "url":"./images/img-2.webp"
+    
+    "url":"https://static.cdn.asset.filimo.com/ct/g603p_desktop_1_v1.jpeg"
   }
-    ]
-}
+    
+]
