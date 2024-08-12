@@ -1,0 +1,19 @@
+{
+    "main":[
+        {"id":1,
+        "url":"./images/img-1.webp"
+  },
+  {
+    "id":2,
+    "url":"./images/img-2.webp"
+  },
+  {
+    "id":3,
+    "url":"./images/img-2.webp"
+  },
+  {
+    "id":4,
+    "url":"./images/img-2.webp"
+  }
+    ]
+}
